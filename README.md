@@ -6,7 +6,7 @@
 🌱 I'm learning **Deep Learning**, **Computer Vision**, **Quantitative Finance**, and **Decentralized Technologies**  
 👯 I'm looking to collaborate on **AI-driven projects**, **DeFi applications**, and **open source initiatives**  
 💬 Ask me about **Python**, **AI/ML**, **Stock Analysis**, **YOLO Object Detection**, **Cryptocurrency**, **Web3**  
-📫 How to reach me: **zrf0512331@gmail.com**  
+📫 How to reach me: **zrf051231@gmail.com**  
 🐦 Follow me on X: **[@nan_yun8818](https://x.com/nan_yun8818?s=21)**  
 ⚡ Fun fact: I love combining AI technology with financial markets and exploring the future of decentralized finance!
 
@@ -113,4 +113,5 @@
 ---
 
 ⭐ **如果你觉得我的项目有趣，欢迎给个Star！**  
+
 💬 **有任何问题或合作意向，随时联系我！**
